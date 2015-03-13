@@ -1,2 +1,2 @@
 # LianLianKan
-Win32 (C++) 游戏
+连连看游戏 Win32 (C++) 
